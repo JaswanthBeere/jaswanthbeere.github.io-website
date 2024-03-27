@@ -1,8 +1,8 @@
 # Personal Portfolio
 
-First Personal website _with light and dark mode_ I built during the month of May, 2022.
+First Personal website I built _with light and dark mode_ during the month of May, 2022.
 
-## Website is [Live!](https://jb-portfolio-2022.vercel.app/):
+### Website is [Live!](https://jb-portfolio-2022.vercel.app/):
 
 ```bash
 https://jb-portfolio-2022.vercel.app/
